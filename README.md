@@ -4,6 +4,7 @@ I'm an ESG/HSE Data analyst with background in Computer Science.
 
 ## Tools I work with:
 -Microsoft Excel
+
 -Python
 -SQL
 -Microsoft PowerBI
