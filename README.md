@@ -12,7 +12,8 @@ I'm an ESG/HSE Data analyst with background in Computer Science. I build impactf
 - **Data Engineering & Visualization** (Power BI Dashboards, DAX Modeling, SQL Queries)
 
 ## Featured Projects:
-- [Upstream Oil and Gas Reporting and Remediation](...)
+- [Oil Spill Incident Reporting and Remediation](...)
+- [Upstream Gas Flaring and Emission Offset Tracker](...)
 
 ## Connect with Me!!
 - [Linkedin](www.linkedin.com/in/favour-chukwuemeka-hsedata)
