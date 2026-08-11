@@ -6,8 +6,11 @@ I'm an ESG/HSE Data analyst with background in Computer Science.
 -Microsoft Excel
 
 -Python
+
 -SQL
+
 -Microsoft PowerBI
+
 
 ## My Projects
 -[Upstream Oil and Gas Reporting and Remediation](...)
