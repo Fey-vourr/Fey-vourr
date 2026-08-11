@@ -1,6 +1,6 @@
 # Hello, I'm Favour!
 
-I'm an ESG/HSE Data analyst with background in Computer Science. I build impactful data dashboards and analytics solution for sustainability and safety management.
+I'm an ESG/HSE Data analyst with background in Computer Science. I build impactful data models and interactive dashboards to drive environmental sustainability and occupational safety decisions.
 
 ## Tools & Technologies:
 - **Data Analysis & Querying:** Python, SQL
