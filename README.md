@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Favour!
 
-<!--
-**Fey-vourr/Fey-vourr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ESG/HSE Data analyst with background in Computer Science.
 
-Here are some ideas to get you started:
+## Tools I work with:
+-Microsoft Excel
+-Python
+-SQL
+-Microsoft PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+-[Upstream Oil and Gas Reporting and Remediation](...)
+
+## Connect with Me!!
+- [Linkedin](www.linkedin.com/in/favour-chukwuemeka-hsedata)
+
