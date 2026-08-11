@@ -12,7 +12,7 @@ I'm an ESG/HSE Data analyst with background in Computer Science. I build impactf
 - **Data Engineering & Visualization** (Power BI Dashboards, DAX Modeling, SQL Queries)
 
 ## Featured Projects:
-- [Oil Spill Incident Reporting and Remediation](...)
+- [Oil Spill Incident Reporting and Remediation](https://github.com/Fey-vourr/Oil-Spill-Incident-Reporting-and-Remediation)
 - [Upstream Gas Flaring and Emission Offset Tracker](...)
 
 ## Connect with Me!!
